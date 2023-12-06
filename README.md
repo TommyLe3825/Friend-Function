@@ -1,7 +1,5 @@
 # Friend-Function
 
-Friend 
- 
 
 You are given a Point class, which defines a point on a 2D grid (x, y).
 
